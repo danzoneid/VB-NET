@@ -1,0 +1,9 @@
+F:\Github\VB\Matrik2x2\bin\Release\Matrik2x2.exe
+F:\Github\VB\Matrik2x2\bin\Release\Matrik2x2.pdb
+F:\Github\VB\Matrik2x2\bin\Release\Matrik2x2.xml
+F:\Github\VB\Matrik2x2\obj\x86\Release\Matrik2x2.Form1.resources
+F:\Github\VB\Matrik2x2\obj\x86\Release\Matrik2x2.Resources.resources
+F:\Github\VB\Matrik2x2\obj\x86\Release\Matrik2x2.vbproj.GenerateResource.Cache
+F:\Github\VB\Matrik2x2\obj\x86\Release\Matrik2x2.exe
+F:\Github\VB\Matrik2x2\obj\x86\Release\Matrik2x2.xml
+F:\Github\VB\Matrik2x2\obj\x86\Release\Matrik2x2.pdb
