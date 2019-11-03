@@ -7,7 +7,7 @@
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
         If inputAForm.Text.Length = 0 Or inputBForm.Text.Length = 0 Or inputCForm.Text.Length = 0 Or inputDForm.Text.Length = 0 Then
-            MsgBox("ISI INPUT TERLEBIH DAHULU!")
+            MsgBox("ISI INPUT TERLEBIH DAHULU!", MsgBoxStyle.Critical, "Warning!! BROO")
 
         Else
             preA.Text = inputAForm.Text
@@ -29,7 +29,7 @@
 
     Private Sub proses_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles proses.Click
         If inputAForm.Text.Length = 0 Or inputBForm.Text.Length = 0 Or inputCForm.Text.Length = 0 Or inputDForm.Text.Length = 0 Then
-            MsgBox("ISI INPUT TERLEBIH DAHULU!")
+            MsgBox("ISI INPUT TERLEBIH DAHULU!", MsgBoxStyle.Critical, "Warning!! BROO")
 
         Else
             preA.Text = inputAForm.Text
@@ -86,5 +86,25 @@
         oInversC.Text = 0
         oInversD.Text = 0
 
+    End Sub
+
+    Private Sub JUDUL_MouseHover(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles JUDUL.MouseHover
+        JUDUL.ForeColor = Color.DarkOrange
+    End Sub
+
+    Private Sub JUDUL_MouseLeave(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles JUDUL.MouseLeave
+        JUDUL.ForeColor = Color.MintCream
+    End Sub
+
+    Private Sub JUDUL_MouseDoubleClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles JUDUL.MouseDoubleClick
+        MsgBox("Made by trapercode.tk", MsgBoxStyle.Information, "About")
+    End Sub
+
+    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        MsgBox("Selamat Menggunakan!😁", MsgBoxStyle.Information, "Happy Take Off!")
+    End Sub
+
+    Private Sub Form1_FormClosing(ByVal sender As System.Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles MyBase.FormClosing
+        MsgBox("Good Bye!", MsgBoxStyle.Information, "Nice To Meet You")
     End Sub
 End Class
