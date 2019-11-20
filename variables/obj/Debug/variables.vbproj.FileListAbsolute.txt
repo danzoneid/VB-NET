@@ -1,0 +1,11 @@
+F:\Github\VB-NET\variables\bin\Debug\variables.exe.config
+F:\Github\VB-NET\variables\bin\Debug\variables.exe
+F:\Github\VB-NET\variables\bin\Debug\variables.pdb
+F:\Github\VB-NET\variables\bin\Debug\variables.xml
+F:\Github\VB-NET\variables\obj\Debug\variables.vbprojResolveAssemblyReference.cache
+F:\Github\VB-NET\variables\obj\Debug\variables.Form1.resources
+F:\Github\VB-NET\variables\obj\Debug\variables.Resources.resources
+F:\Github\VB-NET\variables\obj\Debug\variables.vbproj.GenerateResource.Cache
+F:\Github\VB-NET\variables\obj\Debug\variables.exe
+F:\Github\VB-NET\variables\obj\Debug\variables.xml
+F:\Github\VB-NET\variables\obj\Debug\variables.pdb

@@ -1,0 +1,11 @@
+F:\Github\VB-NET\calculator\bin\Debug\calculator.exe.config
+F:\Github\VB-NET\calculator\bin\Debug\calculator.exe
+F:\Github\VB-NET\calculator\bin\Debug\calculator.pdb
+F:\Github\VB-NET\calculator\bin\Debug\calculator.xml
+F:\Github\VB-NET\calculator\obj\Debug\calculator.vbprojResolveAssemblyReference.cache
+F:\Github\VB-NET\calculator\obj\Debug\calculator.Form1.resources
+F:\Github\VB-NET\calculator\obj\Debug\calculator.Resources.resources
+F:\Github\VB-NET\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+F:\Github\VB-NET\calculator\obj\Debug\calculator.exe
+F:\Github\VB-NET\calculator\obj\Debug\calculator.xml
+F:\Github\VB-NET\calculator\obj\Debug\calculator.pdb

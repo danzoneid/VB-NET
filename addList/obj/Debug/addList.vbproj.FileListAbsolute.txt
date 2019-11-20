@@ -1,0 +1,11 @@
+F:\Github\VB-NET\addList\bin\Debug\addList.exe.config
+F:\Github\VB-NET\addList\bin\Debug\addList.exe
+F:\Github\VB-NET\addList\bin\Debug\addList.pdb
+F:\Github\VB-NET\addList\bin\Debug\addList.xml
+F:\Github\VB-NET\addList\obj\Debug\addList.vbprojResolveAssemblyReference.cache
+F:\Github\VB-NET\addList\obj\Debug\addList.Form1.resources
+F:\Github\VB-NET\addList\obj\Debug\addList.Resources.resources
+F:\Github\VB-NET\addList\obj\Debug\addList.vbproj.GenerateResource.Cache
+F:\Github\VB-NET\addList\obj\Debug\addList.exe
+F:\Github\VB-NET\addList\obj\Debug\addList.xml
+F:\Github\VB-NET\addList\obj\Debug\addList.pdb
